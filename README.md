@@ -1,3 +1,3 @@
 # Apostas
 
-### Programa feito de forma simples em JavaScript, para relembrar pequenos detalhes. 
+### Programa feito em JavaScript de forma simples apenas para relembrar pequenos detalhes da linguagem. 
